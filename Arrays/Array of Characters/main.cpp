@@ -26,5 +26,8 @@ int main(){
         }
     }
     std::cout<<"The vowel count is: "<<vowel_count<<std::endl;
+
+    // Array from Strings 
+
     return 0;
 }

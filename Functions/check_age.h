@@ -1,0 +1,1 @@
+void checkAge(int age);
